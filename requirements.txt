@@ -2,4 +2,8 @@ python-telegram-bot==20.7
 httpx
 pillow
 pytesseract
-requests
+pdfminer.six
+python-docx
+numpy
+faiss-cpu
+duckduckgo-search
