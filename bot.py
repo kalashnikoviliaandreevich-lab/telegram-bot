@@ -104,8 +104,7 @@ def main():
 
 
 if __name__ == "__main__":
-    main()        "contents": [{"parts": [{"text": text[:MAX_INPUT]}]}],
-        "generationConfig": {"temperature": 0.7}
+   main() 
     
 
     try:
