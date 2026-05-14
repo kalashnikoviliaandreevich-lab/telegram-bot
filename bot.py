@@ -106,7 +106,7 @@ def main():
 if __name__ == "__main__":
     main()        "contents": [{"parts": [{"text": text[:MAX_INPUT]}]}],
         "generationConfig": {"temperature": 0.7}
-    }
+    
 
     try:
         async with httpx.AsyncClient(timeout=30) as client:
